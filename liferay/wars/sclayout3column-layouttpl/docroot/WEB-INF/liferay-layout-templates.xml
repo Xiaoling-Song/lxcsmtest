@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!DOCTYPE layout-templates PUBLIC "-//Liferay//DTD Layout Templates 7.2.0//EN" "http://www.liferay.com/dtd/liferay-layout-templates_7_2_0.dtd">
+
+<layout-templates>
+	<custom>
+		<layout-template id="sclayout3column" name="3 Columns(25:50:25)">
+			<template-path>/sclayout3column.ftl</template-path>
+			<thumbnail-path>/sclayout3column.png</thumbnail-path>
+		</layout-template>
+	</custom>
+</layout-templates>
